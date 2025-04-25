@@ -33,7 +33,7 @@ function appendMessage(sender, message) {
         const avatarDiv = document.createElement('div');
         avatarDiv.className = 'bot-avatar';
         const avatarImg = document.createElement('img');
-        avatarImg.src = '/img/iconeBOT.png';
+        avatarImg.src = 'img/iconeBOT.png';
         avatarImg.alt = "Avatar do Bot";
 
         const bubble = document.createElement('div');
