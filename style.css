@@ -56,6 +56,11 @@
 }
 
 @media (max-width: 799px) {
+
+    body{
+        overflow-x: hidden;
+    }
+
     .cabecalho div{
         padding: 1em;
         display: flex;
@@ -79,6 +84,10 @@
         font-size: 12px;
     }
 
+    .footer-contato{
+        margin-right: 1em;
+    }
+
     .footer-redes a,
     .footer-contato a {
         display: block;
@@ -93,7 +102,16 @@
 
     .footer-furia {
         font-size: 0.8em;
-        padding: 10px 10px;
+        padding: 30px 30px 10px 10px;
+    }
+
+    .footer-container{
+        width: 100%;
+    }
+
+    .footer-logo img{
+        height: 100px;
+        width: 100px;
     }
 
     .chat-container {
@@ -144,7 +162,7 @@ header {
 
 .cabecalho p:hover {
     color: #431fa7;
-    font-size: 1.5em;
+    font-size: 1.25em;
 }
 
 .loja {
