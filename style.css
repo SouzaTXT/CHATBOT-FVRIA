@@ -143,7 +143,8 @@ header {
 }
 
 .cabecalho a:hover {
-    color: #431fa7
+    color: #431fa7;
+    font-size: 1.5em;
 }
 
 .loja {
