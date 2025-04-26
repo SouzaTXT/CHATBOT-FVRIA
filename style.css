@@ -88,6 +88,10 @@
         margin-right: 1em;
     }
 
+    .footer-logo img{
+        display: none;
+    }
+
     .footer-redes a,
     .footer-contato a {
         display: block;
