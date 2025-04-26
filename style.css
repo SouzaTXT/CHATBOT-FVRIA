@@ -61,6 +61,11 @@
         overflow-x: hidden;
     }
 
+    .BoasVindas{
+        padding: none;
+        font-size: 80%;
+    }
+
     .cabecalho div{
         padding: 1em;
         display: flex;
@@ -106,7 +111,7 @@
 
     .footer-furia {
         font-size: 0.8em;
-        padding: 30px 30px 10px 10px;
+        padding: 10px 10px 10px 10px;
     }
 
     .footer-container{
@@ -121,6 +126,13 @@
 
     .balao-mensagem {
         max-width: 90%;
+    }
+    .BoasVindas{
+        font-size: 30%;
+    }
+
+    .apresentacaoBOT{
+        font-size: 40%;
     }
 }
 
