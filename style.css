@@ -108,10 +108,9 @@
     .footer-container{
         width: 100%;
     }
-
+    
     .footer-logo img{
-        height: 100px;
-        width: 100px;
+        display: none;
     }
 
     .chat-container {
