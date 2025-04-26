@@ -15,12 +15,12 @@
 
 <h2>Tips to use the ChatBot</h2>
 
-> In the second page, use the words to the bot give you information about these topics: 
->> - "time"
->> - "loja"
->> - "instagram"
->> - "patrocinadores"
->> - "jogos"
+> In the second page, use these words to the bot give you information about the topics: 
+>> - time
+>> - loja
+>> - instagram
+>> - patrocinadores
+>> - jogos
 
 <h1>Final Observations</h1>
 <p>Maybe in the future I will return to this project and try to improve the bot by adding Artificial Intelligence through NLP or LLM with Python. But only time will tell, I won't promise anything hahaha.</p>
